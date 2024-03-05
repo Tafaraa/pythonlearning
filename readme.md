@@ -1,0 +1,1 @@
+Python file with  simple and short data extraction and presentation excersices from a csv file.
